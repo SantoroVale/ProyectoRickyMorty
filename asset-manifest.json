@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/proyecto-rickymorty/static/css/main.6528a973.css",
+    "main.js": "/proyecto-rickymorty/static/js/main.46e3dc6d.js",
+    "static/js/787.e75d53e9.chunk.js": "/proyecto-rickymorty/static/js/787.e75d53e9.chunk.js",
+    "static/media/imgRickMorty.png": "/proyecto-rickymorty/static/media/imgRickMorty.ed9fa0be01b38da56af4.png",
+    "index.html": "/proyecto-rickymorty/index.html",
+    "main.6528a973.css.map": "/proyecto-rickymorty/static/css/main.6528a973.css.map",
+    "main.46e3dc6d.js.map": "/proyecto-rickymorty/static/js/main.46e3dc6d.js.map",
+    "787.e75d53e9.chunk.js.map": "/proyecto-rickymorty/static/js/787.e75d53e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6528a973.css",
+    "static/js/main.46e3dc6d.js"
+  ]
+}
